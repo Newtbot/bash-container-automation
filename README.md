@@ -1,13 +1,13 @@
-Automated Node Project Setup
-Overview
+#Automated Node Project Setup
+#Overview
 This repository provides a bash script for setting up a new Node.js project with all the essential files and configurations. It's designed to save time and ensure consistency in project initialization.
 
-Usage
+#Usage
 Clone this repository to your local machine.
 Run the install.sh script by executing the following command in your terminal:
 ./install.sh
 
-The script performs the following tasks:
+#The script performs the following tasks:
 
 Sets up a basic folder structure (src, public, etc.) accordingly to your repo.
 Installs common Node.js packages.
